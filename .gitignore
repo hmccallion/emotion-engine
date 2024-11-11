@@ -16,6 +16,12 @@ dist/
 # Log files
 *.log
 
+# ignore csv
+*.csv
+
+# ignore excel files too
+*.xlsx
+
 # Package files
 *.jar
 
