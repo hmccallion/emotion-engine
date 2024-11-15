@@ -16,6 +16,9 @@ dist/
 # Log files
 *.log
 
+# ignore pkl
+*.pkl
+
 # ignore csv
 *.csv
 
